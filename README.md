@@ -1,2 +1,23 @@
 # Tarea4-MongoDB-E-commerse
-: se usará un catálogo de productos de un comercio electrónico para realizar consultas y otras acciones
+{
+  "_id": ObjectId("..."),
+  "name": "Cabernet Sauvignon Reserve",
+  "description": "Full-bodied red wine with rich tannins and complex flavor layers.",
+  "price": 45.99,
+  "stock": 120,
+  "winery": ObjectId("..."),
+  "flavor_profile": ObjectId("..."),
+  }
+  
+  "variants": [
+    {
+      "bottle_size": "750ml",
+      "code": "CAB-750",
+      "stock": 80
+    },
+  ],
+  
+  },
+  "status": "active",
+  "release_date": ISODate("2025-11-23T00:00:00Z")
+}
