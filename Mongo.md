@@ -1,8 +1,8 @@
 # Tarea4-MongoDB-E-commerse
 {
   "_id": ObjectId("..."),
-  "name": "Cabernet Sauvignon Reserve",
-  "description": "Full-bodied red wine with rich tannins and complex flavor layers.",
+  "name": "
+  "description": 
   "price": 45.99,
   "stock": 120,
   "winery": ObjectId("..."),
